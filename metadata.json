@@ -1,0 +1,8 @@
+{
+  "name": "Remix SUMATIF ILMU PENGETAHUAN ALAM DAN SOSIAL",
+  "description": "SUMATIF SDN 1 DANGINTUKADAYA TAPEL 2025/2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
